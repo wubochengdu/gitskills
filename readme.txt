@@ -1,2 +1,2 @@
 master add!
-dev add&and simple
+dev add and simple.
